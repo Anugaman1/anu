@@ -8,6 +8,7 @@
     background-image: url(a.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    color: red;
 }
 .alvl{
     background-image: url(alvl.png);
